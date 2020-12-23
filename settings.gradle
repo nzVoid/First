@@ -1,0 +1,3 @@
+include ':secondmodule'
+include ':app'
+rootProject.name = "First"
